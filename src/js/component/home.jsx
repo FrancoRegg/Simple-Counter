@@ -2,6 +2,7 @@ import React from "react";
 
 
 const SimpleCounter = (props) => {
+  
   return (
     <div className="container">
       <h1>segundero</h1>
