@@ -10,11 +10,7 @@ h1{
     font-weight: 600;
     text-transform: capitalize;
 }
-.container{
-    border: 1px solid blue
-}
 .contador{
-    border: 1px solid red;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -25,11 +21,14 @@ h1{
 }
 .numero, .icono{
     margin: auto 10px;
-    border: 1px solid greenyellow;
+    border: 1px solid rgb(13, 14, 12);
     height: 50px;
     width: 40px;
     justify-content: center;
     display: flex;
     align-items: center;
     font-size: xx-large;
+    padding: 30px;
+    background: rgba(71, 15, 15, 0.815);
+    border-radius: 10px;
 }
